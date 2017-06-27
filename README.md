@@ -3,3 +3,4 @@
 ### It was made with [XAMPP](https://www.apachefriends.org/index.html), and that's why it has no "php", "css", "images" and "mockdata" libraries respectively. For bigger projects they would be essential, but for now it's easier for you if you want to run in XAMPP.
 ### Thank you for the original idea of [CodeSchool](https://www.codeschool.com/)!
 ### Screenshot [here](https://github.com/DoktOrk/online-school-achievements/blob/master/scr.png)!
+##### Instead of the mockdata.json could have been used in the `file_get_contents` the proper link of any user to get the data, but that link is unaccessable without permission.
